@@ -1,3 +1,6 @@
-# kicad files
+## kicad files
 *.bak
-
+*.dsn 
+*.net
+*.jpeg
+*.png
