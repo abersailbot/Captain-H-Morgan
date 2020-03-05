@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Captain_Morgan_Revengance-rescue)(type Legacy)(uri ${KIPRJMOD}/Captain_Morgan_Revengance-rescue.lib)(options "")(descr ""))
+  (lib (name max3109)(type Legacy)(uri ${KIPRJMOD}/Resource/max3109.lib)(options "")(descr ""))
+  (lib (name A2200)(type Legacy)(uri ${KIPRJMOD}/Resource/A2200-A/A2200-A.lib)(options "")(descr ""))
+  (lib (name nv08c-csm)(type Legacy)(uri ${KIPRJMOD}/Resource/nv08c-csm.lib)(options "")(descr ""))
+  (lib (name _autosave-Captain_Morgan_Revengance-rescue)(type Legacy)(uri ${KIPRJMOD}/_autosave-Captain_Morgan_Revengance-rescue.lib)(options "")(descr ""))
+)
